@@ -112,7 +112,7 @@ matches
 
 ---
 
-## 🧠 **Optional: AI Chatbot Integration**
+## 🧠 AI Chatbot Integration**
 An AI chatbot (built with Streamlit + GPT API) can answer natural language questions about the data.
 
 Example questions:
