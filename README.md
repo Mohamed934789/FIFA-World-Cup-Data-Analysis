@@ -5,7 +5,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/3/36/FIFA_World_Cup_Logo.png" width="180"/>
 
 ### 📊 Power BI | 🐍 Python (Optional) | 📁 Excel | 🌐 Data Cleaning & Visualization
-#### by [Your Name Here]
+
 
 ---
 
