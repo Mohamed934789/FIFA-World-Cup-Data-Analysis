@@ -122,11 +122,7 @@ Example questions:
 
 ---
 
-## 💬 **Acknowledgments**
-Special thanks to **FIFA Open Data** and **Kaggle** for providing raw datasets.  
-Also, appreciation to our mentors for their guidance and feedback during the project.
 
----
 
 <div align="center">
 
