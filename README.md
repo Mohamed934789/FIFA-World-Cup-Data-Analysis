@@ -96,7 +96,7 @@ matches
 
 | Screenshot | Description |
 |-------------|-------------|
-| ![Dashboard Overview](./images/dashboard_overview.png) | Overview Page |
+| ![Dashboard Overview](./dashboard_overview.png) | Overview Page |
 | ![Player Insights](./images/player_insights.png) | Player Performance |
 | ![Goals Trends](./images/goals_trends.png) | Goal & Match Analysis |
 
