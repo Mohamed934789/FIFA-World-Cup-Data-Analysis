@@ -100,7 +100,7 @@ matches
 ---
 
 ## 🧠 AI Chatbot Integration**
-An AI chatbot (built with Streamlit + GPT API) can answer natural language questions about the data.
+An AI chatbot (built with Streamlit + GEMINI API) can answer natural language questions about the data.
 
 Example questions:
 - “Which team scored the most goals in 2014?”
@@ -117,6 +117,3 @@ Example questions:
 
 ---
 
-Made with ❤️ using **Power BI** and **Python**
-
-</div>
