@@ -90,19 +90,6 @@ matches
 | **Canva / PowerPoint** | Presentation design |
 | **ChatGPT API (Optional)** | For AI-based data Q&A system |
 
----
-
-## 🖼️ **Dashboard Preview**
-
-| Screenshot | Description |
-|-------------|-------------|
-| ![Dashboard Overview](Screenshot 2025-10-15 173315 - Copy.png) | Overview Page |
-| ![Player Insights](./images/player_insights.png) | Player Performance |
-| ![Goals Trends](./images/goals_trends.png) | Goal & Match Analysis |
-
-> 📸 *(Add your screenshots in the `/images` folder and update the paths above)*
-
----
 
 ## 🚀 **How to Use**
 1. Open `Power BI` file: `FIFA_WorldCup.pbix`
