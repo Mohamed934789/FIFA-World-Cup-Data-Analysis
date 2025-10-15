@@ -122,14 +122,6 @@ Example questions:
 
 ---
 
-## 🙌 **Contributors**
-👨‍💻 **Project Lead:** [Your Name Here]  
-📊 **Data Cleaning & Modeling:** [Team Member 1]  
-🎨 **Dashboard Design:** [Team Member 2]  
-🤖 **AI Integration:** [Team Member 3]
-
----
-
 ## 💬 **Acknowledgments**
 Special thanks to **FIFA Open Data** and **Kaggle** for providing raw datasets.  
 Also, appreciation to our mentors for their guidance and feedback during the project.
